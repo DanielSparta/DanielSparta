@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Daniel Sparta</h1>
+<h3 align="center">I'm a C# Developer and a Web vulnerability researcher</h3>
 
-<!--
-**DanielSparta/DanielSparta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielsparta&label=Profile%20views&color=0e75b6&style=flat" alt="danielsparta" /> </p>
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsparta&show_icons=true&locale=en&layout=compact" alt="danielsparta" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielsparta&show_icons=true&locale=en" alt="danielsparta" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielsparta&" alt="danielsparta" /></p>
