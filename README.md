@@ -4,7 +4,3 @@
 <h3 align="center"><a href="https://www.fxp.co.il/showthread.php?t=21316185">Why in recent years CSRF is a less dangerous attack? (SameSite Cookie flag)</a></h3>
 <h3 align="center"><a href="https://www.fxp.co.il/showthread.php?t=21607417">What is Windows SmartScreen and How to bypass it</a></h3>
 <h3 align="center"><a href="https://www.fxp.co.il/showthread.php?t=21624896">This is how you can get persistence with Anti virus bypass logic</a></h3>
-
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsparta&show_icons=true&locale=en&layout=compact" alt="danielsparta" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=danielsparta&show_icons=true&locale=en" alt="danielsparta" /></p>
