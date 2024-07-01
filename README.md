@@ -1,4 +1,3 @@
-<h1 align="center">Hello 👋, I'm Daniel Sparta</h1>
 <h3 align="center">I'm a .NET Developer and a Web Security Researcher</h3>
 <h3 align="center"><a href="https://digitalwhisper.co.il/files/Zines/0xA1/DW161-6-MikmakClientRCE.pdf">Thats how I pwned Club penguin, mikmak.co.il, and some steam games (Client RCE)</a></h3>
 <h3 align="center"><a href="https://danielsparta.github.io/">My blog</a></h3>
